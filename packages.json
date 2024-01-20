@@ -1,0 +1,14 @@
+{
+  "knox":"0.9.2",
+  "fibers":"1.0.15",
+  "html2jade":"0.8.6",
+  "commander": "2.9.0",
+  "ent": "2.2.0",
+  "htmlparser2": "3.9.2",
+  "nwmatcher":"1.3.9", 
+  "request":"2.78.0", 
+  "xmlhttprequest":"1.8.0", 
+  "cssom":"0.3.1", 
+  "cssstyle":"0.2.37",
+  "jsdom": "9.8.3"
+}
